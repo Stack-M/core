@@ -1,0 +1,6183 @@
+[
+  {
+    "section": "Script Info",
+    "body": [
+      {
+        "key": "Title",
+        "value": "HorribleSubs"
+      },
+      {
+        "key": "ScriptType",
+        "value": "v4.00+"
+      },
+      {
+        "key": "WrapStyle",
+        "value": "0"
+      },
+      {
+        "key": "PlayResX",
+        "value": "848"
+      },
+      {
+        "key": "PlayResY",
+        "value": "480"
+      },
+      {
+        "key": "ScaledBorderAndShadow",
+        "value": "yes"
+      }
+    ]
+  },
+  {
+    "section": "V4+ Styles",
+    "body": [
+      {
+        "key": "Format",
+        "value": [
+          "Name",
+          "Fontname",
+          "Fontsize",
+          "PrimaryColour",
+          "SecondaryColour",
+          "OutlineColour",
+          "BackColour",
+          "Bold",
+          "Italic",
+          "Underline",
+          "StrikeOut",
+          "ScaleX",
+          "ScaleY",
+          "Spacing",
+          "Angle",
+          "BorderStyle",
+          "Outline",
+          "Shadow",
+          "Alignment",
+          "MarginL",
+          "MarginR",
+          "MarginV",
+          "Encoding"
+        ]
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "Default",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "2",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "main",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "2",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "0"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "top",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00000000",
+          "BackColour": "&H00000000",
+          "Bold": "0",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "2",
+          "Shadow": "1",
+          "Alignment": "8",
+          "MarginL": "13",
+          "MarginR": "13",
+          "MarginV": "24",
+          "Encoding": "0"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "italics",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "1",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "2",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "0"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "flashback",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "2",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "italicstop",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "1",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "0"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "flashbackitalics",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "1",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "2",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "0"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "flashbacktop",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "0"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "flashbackitalicstop",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "36",
+          "PrimaryColour": "&H00FFFFFF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00020713",
+          "BackColour": "&H00000000",
+          "Bold": "-1",
+          "Italic": "1",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "1.7",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "0",
+          "MarginR": "0",
+          "MarginV": "28",
+          "Encoding": "0"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_172_1_Known_as__the_bi",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "24",
+          "PrimaryColour": "&H00C4B9B2",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00090909",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "40",
+          "MarginR": "40",
+          "MarginV": "27",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_1186_15_I_felt",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "27",
+          "PrimaryColour": "&H00B9B9B9",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00FFFFFF",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "40",
+          "MarginR": "40",
+          "MarginV": "53",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_2971_43_The_briefing_s_o",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "24",
+          "PrimaryColour": "&H002C82D0",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H002D3B3B",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "-6",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "7",
+          "MarginL": "280",
+          "MarginR": "40",
+          "MarginV": "120",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_15388_195_I_m_all_too_awar",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "24",
+          "PrimaryColour": "&H00BFC8C9",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H001C2322",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "40",
+          "MarginR": "40",
+          "MarginV": "133",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_15451_197_that_a_flightles",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "24",
+          "PrimaryColour": "&H00BFC8C9",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H001C2322",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "40",
+          "MarginR": "40",
+          "MarginV": "73",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_15537_199_Plantation__13__",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "18",
+          "PrimaryColour": "&H00E8F0FF",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00949592",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "2",
+          "Shadow": "0",
+          "Alignment": "1",
+          "MarginL": "43",
+          "MarginR": "40",
+          "MarginV": "60",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_18434_234_You_fail",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "24",
+          "PrimaryColour": "&H00B7B9B3",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00000000",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "40",
+          "MarginR": "40",
+          "MarginV": "133",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_33134_360_Episode_1",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "18",
+          "PrimaryColour": "&H00797A77",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00000000",
+          "BackColour": "&H00000000",
+          "Bold": "1",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "8",
+          "MarginL": "40",
+          "MarginR": "40",
+          "MarginV": "93",
+          "Encoding": "1"
+        }
+      },
+      {
+        "key": "Style",
+        "value": {
+          "Name": "sign_33134_361_Alone_and_Loneso",
+          "Fontname": "Open Sans Semibold",
+          "Fontsize": "21",
+          "PrimaryColour": "&H00DAD9DA",
+          "SecondaryColour": "&H000000FF",
+          "OutlineColour": "&H00000000",
+          "BackColour": "&H00000000",
+          "Bold": "0",
+          "Italic": "0",
+          "Underline": "0",
+          "StrikeOut": "0",
+          "ScaleX": "100",
+          "ScaleY": "100",
+          "Spacing": "0",
+          "Angle": "0",
+          "BorderStyle": "1",
+          "Outline": "3",
+          "Shadow": "0",
+          "Alignment": "2",
+          "MarginL": "40",
+          "MarginR": "40",
+          "MarginV": "267",
+          "Encoding": "1"
+        }
+      }
+    ]
+  },
+  {
+    "section": "Events",
+    "body": [
+      {
+        "key": "Format",
+        "value": [
+          "Layer",
+          "Start",
+          "End",
+          "Style",
+          "Name",
+          "MarginL",
+          "MarginR",
+          "MarginV",
+          "Effect",
+          "Text"
+        ]
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:07.05",
+          "End": "0:00:10.42",
+          "Style": "italics",
+          "Name": "Zero2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "The Jian, also known as \\N\"the bird that shares wings,\""
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:07.17",
+          "End": "0:00:10.42",
+          "Style": "sign_172_1_Known_as__the_bi",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Known as \"the bird that shares wings\""
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:11.83",
+          "End": "0:00:15.33",
+          "Style": "italics",
+          "Name": "Zero2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "only possesses one wing."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:15.94",
+          "End": "0:00:19.66",
+          "Style": "italics",
+          "Name": "Zero2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Unless a male and female pair \\Nlean on each other and act as one,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:19.66",
+          "End": "0:00:21.21",
+          "Style": "italics",
+          "Name": "Zero2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "they're incapable of flight."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:21.67",
+          "End": "0:00:23.50",
+          "Style": "italics",
+          "Name": "Zero2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "They're imperfect, incomplete creatures."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:21.85",
+          "End": "0:00:23.50",
+          "Style": "sign_172_1_Known_as__the_bi",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Imperfect, incomplete creatures"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:36.33",
+          "End": "0:00:38.47",
+          "Style": "italics",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But for some reason,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:40.85",
+          "End": "0:00:44.39",
+          "Style": "italics",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "their way of life"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:41.97",
+          "End": "0:00:44.39",
+          "Style": "sign_172_1_Known_as__the_bi",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Their way of life"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:44.39",
+          "End": "0:00:46.41",
+          "Style": "italics",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "struck me as profoundly beautiful."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:44.39",
+          "End": "0:00:46.58",
+          "Style": "sign_172_1_Known_as__the_bi",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Struck me as profoundly beautiful"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:47.80",
+          "End": "0:00:49.35",
+          "Style": "italics",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It was beautiful,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:47.92",
+          "End": "0:00:49.21",
+          "Style": "sign_172_1_Known_as__the_bi",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "{\\fad(1,831)}It was beautiful"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:49.35",
+          "End": "0:00:51.32",
+          "Style": "italics",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I felt."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:00:49.46",
+          "End": "0:00:51.32",
+          "Style": "sign_1186_15_I_felt",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I felt"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:00.09",
+          "End": "0:01:02.10",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I wanna take a bath."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:02.10",
+          "End": "0:01:05.30",
+          "Style": "main",
+          "Name": "Franxx",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Not again. Show some self-control."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:06.12",
+          "End": "0:01:08.38",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hey, how do I smell?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:08.97",
+          "End": "0:01:10.88",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Let him rest."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:10.88",
+          "End": "0:01:13.30",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "He's drained after the last battle."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:13.30",
+          "End": "0:01:17.22",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Sheesh, what a high-maintenance girl."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:17.77",
+          "End": "0:01:20.02",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Does Plantation 13 have an ocean?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:20.02",
+          "End": "0:01:21.15",
+          "Style": "main",
+          "Name": "Nana7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "An ocean?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:21.15",
+          "End": "0:01:23.45",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I wanna swim in some clear ocean water."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:23.45",
+          "End": "0:01:25.72",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm sorry to say there's no ocean there."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:25.72",
+          "End": "0:01:27.56",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Won't a shower do?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:27.56",
+          "End": "0:01:29.23",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm in the mood for a swim."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:29.57",
+          "End": "0:01:31.47",
+          "Style": "main",
+          "Name": "Pilot",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "We'll be descending shortly."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:31.47",
+          "End": "0:01:33.14",
+          "Style": "main",
+          "Name": "Pilot",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Please sit down and buckle your seatbelts."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:33.14",
+          "End": "0:01:34.62",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Understood."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:34.62",
+          "End": "0:01:35.74",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Let's continue this later."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:39.30",
+          "End": "0:01:41.37",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I hate how I taste."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:43.45",
+          "End": "0:01:46.09",
+          "Style": "italics",
+          "Name": "Hiro16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "The Jian is also known as \\N\"the bird that shares wings.\""
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:47.03",
+          "End": "0:01:49.37",
+          "Style": "italics",
+          "Name": "Hiro16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "The book I read about it a long time ago"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:49.37",
+          "End": "0:01:52.79",
+          "Style": "italics",
+          "Name": "Hiro16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "said it can't even fly unless a \\Nmale and female support each other."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:52.79",
+          "End": "0:01:54.26",
+          "Style": "italics",
+          "Name": "Hiro16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "They're pitiful creatures."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:01:58.47",
+          "End": "0:02:00.89",
+          "Style": "italics",
+          "Name": "Hiro16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Until it finds a partner,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:00.89",
+          "End": "0:02:03.33",
+          "Style": "italics",
+          "Name": "Hiro16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "it must hide among tree leaves,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:03.33",
+          "End": "0:02:04.95",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "wait with bated breath,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:03.89",
+          "End": "0:02:05.20",
+          "Style": "sign_2971_43_The_briefing_s_o",
+          "Name": "SignZoomedIn",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "The briefing's over.\\NContact me. We need to talk."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:04.95",
+          "End": "0:02:08.92",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "and dream of the day it can take \\Nflight into the skies above."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:05.20",
+          "End": "0:02:08.14",
+          "Style": "sign_2971_43_The_briefing_s_o",
+          "Name": "SignZoomedIn",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hey, slacker.\\NWhere are you right now?\\N\\NAnyway, you'd better show up for the recruit\\Nwelcoming ceremony tomorrow. Got that?\\NToo bad about Naomi, but you've been told\\Nyou can stay, so don't act all stubborn"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:18.66",
+          "End": "0:02:19.61",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's blood."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:26.28",
+          "End": "0:02:27.54",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "H-Hey..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:28.13",
+          "End": "0:02:32.15",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "If so, where does a bird that \\Nends up never flying go?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:36.81",
+          "End": "0:02:39.93",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I know the answer to that all too well."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:40.76",
+          "End": "0:02:42.51",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "The answer is..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:42.51",
+          "End": "0:02:44.47",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Oh, found one."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:53.52",
+          "End": "0:02:55.32",
+          "Style": "main",
+          "Name": "Futoshi214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "\"Partner Killer\"?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:55.32",
+          "End": "0:02:59.25",
+          "Style": "main",
+          "Name": "Zorome666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Apparently, the girl has horns and fangs,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:02:59.25",
+          "End": "0:03:01.66",
+          "Style": "main",
+          "Name": "Zorome666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "and any parasite that rides with \\Nher will have his blood sucked"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:01.66",
+          "End": "0:03:04.81",
+          "Style": "main",
+          "Name": "Zorome666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "and die after the third time, without fail."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:04.81",
+          "End": "0:03:07.04",
+          "Style": "main",
+          "Name": "214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Yikes. I don't wanna ride with her."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:07.04",
+          "End": "0:03:09.50",
+          "Style": "main",
+          "Name": "Miku390",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Surely that's just a rumor."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:09.50",
+          "End": "0:03:11.11",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's true!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:11.11",
+          "End": "0:03:15.41",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Someone actually overheard \\Nsecurity talking about it!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:16.41",
+          "End": "0:03:17.32",
+          "Style": "main",
+          "Name": "Goro56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Ichigo."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:17.92",
+          "End": "0:03:19.81",
+          "Style": "main",
+          "Name": "Goro56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Did you get a hold of Hiro?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:19.81",
+          "End": "0:03:21.44",
+          "Style": "main",
+          "Name": "Ichigo15",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Nope. Not a trace."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:21.44",
+          "End": "0:03:22.34",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hey..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:22.72",
+          "End": "0:03:25.15",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "So is he gonna stay here after all?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:25.15",
+          "End": "0:03:29.16",
+          "Style": "main",
+          "Name": "214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But he didn't attend today's briefing."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:29.16",
+          "End": "0:03:31.31",
+          "Style": "main",
+          "Name": "214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Maybe that means he's gonna \\Nturn down the chance?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:31.31",
+          "End": "0:03:34.89",
+          "Style": "main",
+          "Name": "Kokoro556",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hiro's going to leave? That's so sad."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:34.89",
+          "End": "0:03:39.32",
+          "Style": "main",
+          "Name": "Ikuno196",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But if he doesn't, where would that leave \\NNaomi? She got caught up in his mess."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:39.32",
+          "End": "0:03:41.63",
+          "Style": "main",
+          "Name": "Mitsuru326",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I say Hiro's showing real integrity."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:41.63",
+          "End": "0:03:44.70",
+          "Style": "main",
+          "Name": "Mitsuru326",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It must be hard for him to face \\Nus after what happened, too."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:44.70",
+          "End": "0:03:47.45",
+          "Style": "main",
+          "Name": "Mitsuru326",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Spare a thought for how he feels."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:47.45",
+          "End": "0:03:48.66",
+          "Style": "main",
+          "Name": "390",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "God, how forced."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:49.27",
+          "End": "0:03:51.13",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Are you okay with this, Ichigo?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:51.78",
+          "End": "0:03:53.17",
+          "Style": "main",
+          "Name": "15",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That idiot!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:03:55.69",
+          "End": "0:04:00.25",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Good grief. A transport plane's seats \\Nare too hard for an old man like me."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:00.25",
+          "End": "0:04:02.17",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Can't we travel some other way?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:02.60",
+          "End": "0:04:04.40",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Deal with it."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:04.40",
+          "End": "0:04:07.68",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "We don't have many options when it comes \\Nto transporting cargo that massive."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:08.01",
+          "End": "0:04:11.62",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I haven't seen you in ages, but I \\Nsee you're still as stiff as ever."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:11.62",
+          "End": "0:04:13.72",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I wish the seats and your personality"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:13.72",
+          "End": "0:04:16.06",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "were this soft and yielding."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:16.06",
+          "End": "0:04:17.65",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Doctor! Stop that!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:18.81",
+          "End": "0:04:20.03",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Is Hachi well?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:20.53",
+          "End": "0:04:23.89",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "He's been asked to speed up \\Nthe children's training."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:23.89",
+          "End": "0:04:27.88",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "After all, this will be the first trial run \\Nfor the unit we're using this time."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:27.88",
+          "End": "0:04:28.78",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I see."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:29.53",
+          "End": "0:04:31.93",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "May I ask you something, Doctor?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:32.45",
+          "End": "0:04:34.79",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Why run that test case here?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:35.10",
+          "End": "0:04:37.32",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "And with such a makeshift team, no less?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:37.83",
+          "End": "0:04:39.96",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Something's been bothering me."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:39.96",
+          "End": "0:04:44.30",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Although the geezers in APE \\Nmight not understand it."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:44.85",
+          "End": "0:04:47.86",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "So you do have some sort of idea in mind?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:49.46",
+          "End": "0:04:53.18",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Oh, and please do attend the startup ritual."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:53.53",
+          "End": "0:04:55.21",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I know."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:55.21",
+          "End": "0:04:59.19",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "All that aside, I see that our problem \\Nchild has already gone missing."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:04:59.97",
+          "End": "0:05:01.65",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But she was just here..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:05:01.65",
+          "End": "0:05:03.16",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Huh? Where..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:05:03.16",
+          "End": "0:05:04.11",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Over there."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:05:09.24",
+          "End": "0:05:11.62",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Damn it! She's running off again."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:05:18.61",
+          "End": "0:05:19.88",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's alive!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:05:25.37",
+          "End": "0:05:27.26",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I never knew there was a place like this."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:05:29.69",
+          "End": "0:05:30.89",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "A parasite?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:05:31.86",
+          "End": "0:05:34.18",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But the uniform's not like ours."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:04.05",
+          "End": "0:06:04.76",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "No way!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:04.76",
+          "End": "0:06:05.93",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Is she drowning?!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:06.95",
+          "End": "0:06:08.01",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I've gotta help her!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:12.28",
+          "End": "0:06:14.93",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It was like I'd been put under a spell."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:15.48",
+          "End": "0:06:17.93",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Her two alluring horns"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:18.34",
+          "End": "0:06:20.69",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "and my first-ever look \\Nat a naked female body"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:20.69",
+          "End": "0:06:24.10",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "left me transfixed, unable \\Nto take my eyes off her."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:30.25",
+          "End": "0:06:32.04",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "N-N-N-N..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:32.04",
+          "End": "0:06:32.66",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Naked?!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:33.16",
+          "End": "0:06:34.93",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Wait, no!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:34.93",
+          "End": "0:06:38.04",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Oh. And here I thought you were dead."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:38.63",
+          "End": "0:06:41.60",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "A-Are you a parasite?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:41.60",
+          "End": "0:06:44.04",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Why were you bathing here?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:44.44",
+          "End": "0:06:49.30",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's so weird. I heard ocean water was salty."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:50.04",
+          "End": "0:06:51.80",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Uh, this isn't an ocean."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:52.73",
+          "End": "0:06:54.33",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I know that much."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:06:55.32",
+          "End": "0:06:59.81",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But it's the most ocean-like place I know."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:00.26",
+          "End": "0:07:01.75",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Aren't you gonna swim?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:01.75",
+          "End": "0:07:03.37",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Huh? Me?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:03.37",
+          "End": "0:07:05.51",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Nah, I'm good."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:05.51",
+          "End": "0:07:07.97",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Really? But it feels so good."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:08.57",
+          "End": "0:07:11.20",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You were staring so hard,\\NI thought you wanted to swim, too."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:11.20",
+          "End": "0:07:12.85",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Th-That's because..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:12.85",
+          "End": "0:07:15.60",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I thought you were drowning,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:15.60",
+          "End": "0:07:17.22",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "so I jumped in to save you, and..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:19.13",
+          "End": "0:07:22.33",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "S-Sorry, but could you put your clothes on?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:24.61",
+          "End": "0:07:27.46",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Oh, I get it! You're a pervert!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:27.46",
+          "End": "0:07:28.80",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Where'd that come from?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:33.59",
+          "End": "0:07:35.10",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Th-This isn't what it looks like!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:41.24",
+          "End": "0:07:43.12",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Your face looks hilarious!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:45.75",
+          "End": "0:07:49.07",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But you jumped in to save me, huh?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:49.07",
+          "End": "0:07:50.57",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I appreciate that."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:50.57",
+          "End": "0:07:51.40",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Thank you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:55.74",
+          "End": "0:07:58.79",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That uniform... Are you a parasite, too?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:07:59.32",
+          "End": "0:08:00.65",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "No."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:00.65",
+          "End": "0:08:02.25",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "So you don't pilot?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:02.25",
+          "End": "0:08:03.69",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I {\\i1}can't{\\i0} pilot."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:04.42",
+          "End": "0:08:06.71",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I no longer have the ability."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:07.24",
+          "End": "0:08:09.13",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I even dragged my partner down with me."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:12.07",
+          "End": "0:08:14.50",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I don't have a place here anymore."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:16.98",
+          "End": "0:08:19.97",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Huh. So you're just like me."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:21.40",
+          "End": "0:08:23.27",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm always alone, too,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:23.77",
+          "End": "0:08:26.15",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "thanks to these horns."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:26.84",
+          "End": "0:08:29.27",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "If you don't belong here,\\Njust build a place where you do."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:29.79",
+          "End": "0:08:32.02",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "If you don't have a partner, \\Njust find another."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:32.45",
+          "End": "0:08:34.01",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "And if you can't,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:34.01",
+          "End": "0:08:35.11",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "take one by force!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:42.66",
+          "End": "0:08:45.33",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Wow, your taste makes my heart race."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:45.33",
+          "End": "0:08:48.34",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It bites and lingers..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:49.05",
+          "End": "0:08:50.28",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "The taste of danger."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:50.28",
+          "End": "0:08:51.65",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Wh-What are you..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:51.65",
+          "End": "0:08:53.09",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Would you have preferred a kiss?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:53.83",
+          "End": "0:08:54.84",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "A kiss?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:54.84",
+          "End": "0:08:57.58",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Oh, you guys don't know, huh?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:08:58.17",
+          "End": "0:09:00.06",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's a very special thing."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:01.01",
+          "End": "0:09:03.32",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I think I've taken a liking to you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:03.78",
+          "End": "0:09:05.52",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Won't you be my darling?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:05.52",
+          "End": "0:09:09.41",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "D-Darling? You mean partner?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:10.23",
+          "End": "0:09:14.18",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Your ability's probably just still dormant."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:14.18",
+          "End": "0:09:16.15",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I can awaken it for you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:16.77",
+          "End": "0:09:20.15",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "And you weren't frightened by my horns."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:21.11",
+          "End": "0:09:22.97",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "When she held out that hand,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:23.38",
+          "End": "0:09:24.26",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:27.75",
+          "End": "0:09:28.66",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Too bad."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:29.83",
+          "End": "0:09:31.34",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Time's up."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:31.98",
+          "End": "0:09:33.09",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "We've been looking for you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:33.89",
+          "End": "0:09:35.83",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Why do you keep running off alone?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:36.34",
+          "End": "0:09:39.72",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's not like there's anything else to do \\Nuntil tomorrow's welcoming ceremony."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:39.72",
+          "End": "0:09:42.42",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Well, as your partner, \\NI'm the one who suffers for it."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:43.43",
+          "End": "0:09:44.93",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Partner?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:45.52",
+          "End": "0:09:49.29",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Are you a parasite cadet? Your \\Nwelcoming ceremony's tomorrow, right?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:50.04",
+          "End": "0:09:52.31",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Sorry she bothered you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:52.31",
+          "End": "0:09:53.25",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's okay..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:55.25",
+          "End": "0:09:56.90",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Um, what did you mean by \"partner\"?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:56.90",
+          "End": "0:09:58.82",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Let me give you some advice."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:09:59.32",
+          "End": "0:10:01.64",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Stay far away from her."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:01.64",
+          "End": "0:10:04.79",
+          "Style": "main",
+          "Name": "081",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "She's not the kind of pistil \\Nthat just anyone can handle."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:05.71",
+          "End": "0:10:06.41",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Your name!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:06.76",
+          "End": "0:10:08.12",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What's your name?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:09.11",
+          "End": "0:10:10.17",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Name?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:10.47",
+          "End": "0:10:12.93",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Do we parasites even have names?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:15.98",
+          "End": "0:10:19.63",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But, well, my code is 002."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:19.63",
+          "End": "0:10:22.44",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Everyone calls me Zero Two."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:24.02",
+          "End": "0:10:27.68",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "\"So you're the same as me,\" she said."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:27.68",
+          "End": "0:10:29.36",
+          "Style": "top",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Move your feet."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:28.81",
+          "End": "0:10:31.86",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Getting mocked for my lack of \\Na partner would be one thing."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:29.36",
+          "End": "0:10:32.69",
+          "Style": "top",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Mistilteinn's issued a \\Nsearch request for you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:31.86",
+          "End": "0:10:36.31",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But the fact that there was still \\Na part of me that hoped for one"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:36.31",
+          "End": "0:10:38.89",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "made me feel pathetic and ashamed of myself."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:41.80",
+          "End": "0:10:43.45",
+          "Style": "sign_15388_195_I_m_all_too_awar",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm all too aware"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:42.42",
+          "End": "0:10:43.45",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm all too aware"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:44.28",
+          "End": "0:10:46.74",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "that a flightless bird has nowhere to go."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:44.43",
+          "End": "0:10:48.00",
+          "Style": "sign_15451_197_that_a_flightles",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That a flightless bird\\Nhas nowhere to go"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:10:48.00",
+          "End": "0:10:50.25",
+          "Style": "sign_15537_199_Plantation__13__",
+          "Name": "",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Plantation #13: \"Cerasus\""
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:01.84",
+          "End": "0:11:03.84",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Look at all those adults."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:03.84",
+          "End": "0:11:07.31",
+          "Style": "main",
+          "Name": "214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Yeah, they're all here to see us."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:08.05",
+          "End": "0:11:12.63",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "\"You're the chosen ones,\" Papa said."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:10.79",
+          "End": "0:11:15.07",
+          "Style": "top",
+          "Name": "APEHead",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "My children, you have had the good \\Nfortune to be chosen as parasites."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:13.14",
+          "End": "0:11:15.07",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "As far back as we can remember,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:15.07",
+          "End": "0:11:17.57",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "we children had code numbers assigned to us,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:15.89",
+          "End": "0:11:20.57",
+          "Style": "top",
+          "Name": "APEHead",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Your great predecessors defended \\Nour cities and our people,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:17.94",
+          "End": "0:11:24.21",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "and were told that piloting weapons called\\NFRANXX in male-female pairs to fight"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:21.05",
+          "End": "0:11:26.58",
+          "Style": "top",
+          "Name": "APEHead",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "and they splendidly took flight \\Nas our representatives."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:24.21",
+          "End": "0:11:26.59",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "was our sole purpose in life."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:26.59",
+          "End": "0:11:31.29",
+          "Style": "main",
+          "Name": "APEHead",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Turn your life into a blaze of glory and \\Nshed every last drop of blood you have."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:31.29",
+          "End": "0:11:35.13",
+          "Style": "main",
+          "Name": "APEHead",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I pray that you will become a \\Nshining ray of hope for humanity."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:36.12",
+          "End": "0:11:39.09",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Children that aren't fit for \\Nthat purpose have no value."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:39.75",
+          "End": "0:11:43.09",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That's exactly why I decided \\Nto leave this place."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:44.07",
+          "End": "0:11:44.97",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Ichigo."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:45.60",
+          "End": "0:11:49.08",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Focus on the ceremony. Papa is watching,\\Nand so is everyone else."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:51.45",
+          "End": "0:11:52.25",
+          "Style": "main",
+          "Name": "15",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Right."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:54.89",
+          "End": "0:11:57.98",
+          "Style": "main",
+          "Name": "Hachi8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That's all the official instructions for\\Nyour return to the orphanage."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:11:58.61",
+          "End": "0:12:00.56",
+          "Style": "main",
+          "Name": "Hachi8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Is there anything else you'd like to know?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:00.56",
+          "End": "0:12:02.11",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Nothing, really."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:02.11",
+          "End": "0:12:07.99",
+          "Style": "main",
+          "Name": "8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Code 016, HQ has given you special \\Npermission to remain here."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:08.46",
+          "End": "0:12:10.58",
+          "Style": "main",
+          "Name": "8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Are you certain you don't want to stay?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:11.40",
+          "End": "0:12:12.50",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I am."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:12.89",
+          "End": "0:12:15.32",
+          "Style": "main",
+          "Name": "8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Is that so? Understood."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:23.67",
+          "End": "0:12:26.45",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Positive pulse and P-Factor dropping."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:26.45",
+          "End": "0:12:28.24",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Timed out."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:28.24",
+          "End": "0:12:30.35",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Commencing stage six linking."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:30.35",
+          "End": "0:12:32.08",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Measuring ability score."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:32.08",
+          "End": "0:12:33.73",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Negative pulse detected."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:34.44",
+          "End": "0:12:36.44",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Positive pulse on standby."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:36.80",
+          "End": "0:12:39.14",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Three, two, one..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:39.14",
+          "End": "0:12:40.57",
+          "Style": "flashbackitalics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Timed out."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:43.80",
+          "End": "0:12:47.22",
+          "Style": "flashback",
+          "Name": "8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Code 703 and Code 016."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:48.70",
+          "End": "0:12:50.12",
+          "Style": "flashback",
+          "Name": "8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You fail."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:48.85",
+          "End": "0:12:50.12",
+          "Style": "sign_18434_234_You_fail",
+          "Name": "Sign",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You fail"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:52.39",
+          "End": "0:12:54.74",
+          "Style": "main",
+          "Name": "Naomi703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You should've stayed, Hiro."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:55.88",
+          "End": "0:12:59.45",
+          "Style": "main",
+          "Name": "Naomi703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Did you refuse because of me?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:12:59.45",
+          "End": "0:13:00.38",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "No."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:00.93",
+          "End": "0:13:04.52",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's not like I'd be of any \\Nuse even if I stayed."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:05.25",
+          "End": "0:13:07.91",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You've always been like that."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:08.90",
+          "End": "0:13:10.76",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You're just running away."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:11.22",
+          "End": "0:13:13.64",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "From your partner, and from yourself."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:14.93",
+          "End": "0:13:18.85",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You remember how many of our friends\\Ndisappeared from the orphanage, right?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:19.62",
+          "End": "0:13:22.40",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "There's no telling when we \\Ncould end up just like them."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:23.45",
+          "End": "0:13:24.82",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "So don't try to play the hero!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:25.41",
+          "End": "0:13:28.24",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Who cares if it's favoritism? You're lucky\\Nyou have a chance to stay at all!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:28.82",
+          "End": "0:13:30.93",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "We've made it so far!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:31.43",
+          "End": "0:13:33.75",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I would definitely stay, \\Neven if it killed me!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:33.75",
+          "End": "0:13:35.40",
+          "Style": "main",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Quit your chatter."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:35.40",
+          "End": "0:13:36.46",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Naomi..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:36.46",
+          "End": "0:13:37.37",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Why..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:38.29",
+          "End": "0:13:41.83",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Why did you have to be my partner?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:46.21",
+          "End": "0:13:48.89",
+          "Style": "main",
+          "Name": "214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hiro never showed, huh?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:49.22",
+          "End": "0:13:51.82",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Forget that crybaby."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:51.82",
+          "End": "0:13:56.23",
+          "Style": "main",
+          "Name": "390",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Right to the very end, we could never \\Ntell what was going through his head."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:13:56.23",
+          "End": "0:14:00.11",
+          "Style": "main",
+          "Name": "556",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I hope they both get back safe and sound."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:00.57",
+          "End": "0:14:03.51",
+          "Style": "main",
+          "Name": "196",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Their ship probably isn't\\Nheaded back to the Garden."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:04.15",
+          "End": "0:14:07.62",
+          "Style": "main",
+          "Name": "196",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I've never even heard of any \\Nparasites coming back home."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:10.89",
+          "End": "0:14:12.41",
+          "Style": "main",
+          "Name": "8",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Are you ready?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:12.41",
+          "End": "0:14:13.49",
+          "Style": "main",
+          "Name": "All",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Yes, sir!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:19.14",
+          "End": "0:14:21.08",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Well, take care, Hiro."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:21.69",
+          "End": "0:14:24.08",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I don't think we'll ever \\Nsee each other again."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:24.08",
+          "End": "0:14:29.27",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm done now, but you still have a chance."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:29.27",
+          "End": "0:14:31.80",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You don't have to factor \\Nme into your decisions."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:31.80",
+          "End": "0:14:33.31",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Wait a second, Naomi!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:34.72",
+          "End": "0:14:35.69",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What are you doing?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:35.69",
+          "End": "0:14:37.87",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I don't need those things anymore."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:37.87",
+          "End": "0:14:39.35",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Share them with everyone."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:39.35",
+          "End": "0:14:40.02",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "W-Wait!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:40.02",
+          "End": "0:14:45.09",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You know, I really like \\Nthis name you gave me."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:46.34",
+          "End": "0:14:50.23",
+          "Style": "main",
+          "Name": "703",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hiro, I hope you find a good partner."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:51.03",
+          "End": "0:14:52.41",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Naomi..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:52.41",
+          "End": "0:14:55.09",
+          "Style": "main",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Don't! You can take the next \\Nplant and still make it!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:14:56.70",
+          "End": "0:14:57.89",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Naomi..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:03.85",
+          "End": "0:15:05.29",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I smell a klaxosaur."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:06.18",
+          "End": "0:15:10.09",
+          "Style": "italics",
+          "Name": "ViceChief",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "We will hereby begin the startup ritual."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:10.09",
+          "End": "0:15:14.55",
+          "Style": "italics",
+          "Name": "ViceChief",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "With this, you kids will finally \\Nbecome official parasites."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:21.35",
+          "End": "0:15:22.15",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What's going on?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:23.48",
+          "End": "0:15:26.23",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "This is bad. The fog is rolling in."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:30.12",
+          "End": "0:15:31.74",
+          "Style": "main",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What's the matter? Get in already."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:37.69",
+          "End": "0:15:39.57",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Uh, I think I'll—"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:40.65",
+          "End": "0:15:41.62",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What was that?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:15:46.25",
+          "End": "0:15:48.59",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Those things weren't there before."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:16:02.36",
+          "End": "0:16:03.27",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Naomi!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:16:15.64",
+          "End": "0:16:17.93",
+          "Style": "main",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's a klaxosaur! Ready intercepting fire!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:16:17.93",
+          "End": "0:16:20.20",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "So that's a klaxosaur?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:16:54.21",
+          "End": "0:16:55.33",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Wait, that's where..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:16:55.75",
+          "End": "0:16:57.28",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Damn it!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:14.42",
+          "End": "0:17:16.33",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Another klaxosaur?!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:16.33",
+          "End": "0:17:17.35",
+          "Style": "main",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Klaxosaur!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:17.35",
+          "End": "0:17:19.29",
+          "Style": "main",
+          "Name": "G",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Run away! Take shelter!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:19.29",
+          "End": "0:17:23.52",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "A moho-class, huh? It's big, \\Nstrong, and has a fine look."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:23.52",
+          "End": "0:17:26.95",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "This is no time for casual commentary! \\NPrepare to evacuate!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:26.95",
+          "End": "0:17:28.86",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hurry up and retrieve the parasites!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:29.28",
+          "End": "0:17:31.08",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What's happening?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:32.29",
+          "End": "0:17:34.07",
+          "Style": "italics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Garage 2 damaged."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:34.67",
+          "End": "0:17:36.82",
+          "Style": "italics",
+          "Name": "PA",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Unfit for housing Delphinium."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:50.34",
+          "End": "0:17:52.13",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "A stampede, now?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:52.13",
+          "End": "0:17:56.93",
+          "Style": "main",
+          "Name": "APEChief",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What an ugly sight. Did she \\Ndevour her stamen again?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:17:56.93",
+          "End": "0:17:59.64",
+          "Style": "main",
+          "Name": "ViceChief",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's hard to tell which is \\Nthe real monster here."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:15.57",
+          "End": "0:18:16.32",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Guys!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:16.84",
+          "End": "0:18:17.70",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What the hell?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:44.53",
+          "End": "0:18:46.95",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Ow... What was that?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:47.93",
+          "End": "0:18:50.50",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Huh? H-Hey..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:51.27",
+          "End": "0:18:54.11",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Forget about him. He's done for."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:54.11",
+          "End": "0:18:55.41",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You're..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:56.41",
+          "End": "0:18:58.11",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What are you doing in there?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:18:58.11",
+          "End": "0:19:01.53",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What, you ask? I'm going \\Nmonster hunting, of course."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:01.90",
+          "End": "0:19:04.91",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You're going to pilot this robot alone?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:04.91",
+          "End": "0:19:06.43",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I gotta go."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:06.43",
+          "End": "0:19:08.57",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "W-Wait a second!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:08.57",
+          "End": "0:19:10.24",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You can't! You're hurt!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:10.24",
+          "End": "0:19:11.54",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Out of my way!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:12.12",
+          "End": "0:19:15.65",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "This is insanity. Besides, \\Nyou're by yourself now."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:15.65",
+          "End": "0:19:18.01",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "FRANXX can't be piloted alone."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:18.47",
+          "End": "0:19:20.25",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm always alone."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:20.73",
+          "End": "0:19:24.14",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That's how it's always been. I'm used to it."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:24.14",
+          "End": "0:19:25.93",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "No! You'll die!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:28.25",
+          "End": "0:19:30.31",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm not afraid of death."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:30.31",
+          "End": "0:19:33.39",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That thing's going to start \\Nmoving again eventually."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:33.39",
+          "End": "0:19:36.44",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "And when it does, everyone \\Nhere is gonna die either way."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:36.98",
+          "End": "0:19:39.07",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm not afraid of death."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:39.07",
+          "End": "0:19:42.57",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I have a job to do."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:43.53",
+          "End": "0:19:45.33",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm going."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:46.68",
+          "End": "0:19:47.70",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm powerless."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:48.39",
+          "End": "0:19:50.83",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Right now, I can't help my friends"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:51.14",
+          "End": "0:19:53.58",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "or fight a klaxosaur."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:54.08",
+          "End": "0:19:55.75",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That's what I thought."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:56.63",
+          "End": "0:19:58.42",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But as I stared at the girl in front of me,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:19:59.34",
+          "End": "0:20:01.93",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "the words that escaped my lips were,\\Nfor some reason..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:03.89",
+          "End": "0:20:04.72",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Wait."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:06.04",
+          "End": "0:20:07.76",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'll pilot that robot with you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:07.76",
+          "End": "0:20:11.53",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I'm not about to let you go alone."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:12.26",
+          "End": "0:20:13.10",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Oh?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:13.64",
+          "End": "0:20:15.61",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Are you prepared to die?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:16.45",
+          "End": "0:20:17.85",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I don't know."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:18.49",
+          "End": "0:20:22.69",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But as I am now, I don't belong anywhere."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:23.25",
+          "End": "0:20:25.53",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That's no different from being dead."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:25.53",
+          "End": "0:20:28.49",
+          "Style": "main",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "So take me with you!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:28.87",
+          "End": "0:20:32.02",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Huh... You really are just like me."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:32.50",
+          "End": "0:20:34.87",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You and I are very similar."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:34.87",
+          "End": "0:20:38.38",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's been a long time since \\NI last saw a human cry."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:39.09",
+          "End": "0:20:42.33",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I like the look in your eyes.\\NIt makes my heart race."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:45.25",
+          "End": "0:20:46.84",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Now come to me."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:54.01",
+          "End": "0:20:55.91",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Let me get a taste of you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:56.66",
+          "End": "0:20:58.40",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You are now..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:20:58.40",
+          "End": "0:20:59.82",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "My darling!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:17.08",
+          "End": "0:21:18.18",
+          "Style": "main",
+          "Name": "214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's back!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:18.18",
+          "End": "0:21:19.38",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "It's moving again!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:24.47",
+          "End": "0:21:26.25",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "W-Was it eaten?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:26.25",
+          "End": "0:21:27.01",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "No."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:27.40",
+          "End": "0:21:28.51",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That's..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:47.22",
+          "End": "0:21:50.87",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "When the negative and positive—\\Nmale and female factors combine,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:50.87",
+          "End": "0:21:52.83",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "and their hearts become one,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:21:52.83",
+          "End": "0:21:56.87",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "the iron maiden will reveal her true form."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:22:01.13",
+          "End": "0:22:03.85",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Now {\\i1}this{\\i0} is a FRANXX!\\NHow truly beautiful!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:22:03.85",
+          "End": "0:22:06.05",
+          "Style": "main",
+          "Name": "Fr",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You're the best, Strelizia!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:22:06.05",
+          "End": "0:22:08.01",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But who's piloting it?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:22:30.74",
+          "End": "0:22:31.74",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Game over."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:22:54.74",
+          "End": "0:22:56.42",
+          "Style": "main",
+          "Name": "15",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "That's a FRANXX,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:22:57.49",
+          "End": "0:22:59.43",
+          "Style": "main",
+          "Name": "15",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "the kind of robot we'll pilot."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:01.96",
+          "End": "0:23:04.94",
+          "Style": "sign_33134_360_Episode_1",
+          "Name": "Title",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Episode 1"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:01.96",
+          "End": "0:23:04.94",
+          "Style": "sign_33134_361_Alone_and_Loneso",
+          "Name": "Title",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Alone and Lonesome"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:06.49",
+          "End": "0:23:11.72",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I don't know why, but the warm touch \\Nof her lips made my heart race."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:12.88",
+          "End": "0:23:17.64",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Other than that, I remember nothing about \\Nwhat happened in the cockpit back then."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:20.15",
+          "End": "0:23:20.87",
+          "Style": "main",
+          "Name": "15",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Hiro?!"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:20.87",
+          "End": "0:23:22.63",
+          "Style": "main",
+          "Name": "666",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "What's he doing there?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:22.63",
+          "End": "0:23:24.45",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Wait, there's someone else."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:24.45",
+          "End": "0:23:25.77",
+          "Style": "main",
+          "Name": "56",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Are those..."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:25.77",
+          "End": "0:23:26.82",
+          "Style": "main",
+          "Name": "390",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "...horns?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:29.17",
+          "End": "0:23:31.35",
+          "Style": "main",
+          "Name": "214",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "You mean that pistil is the one?"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:32.28",
+          "End": "0:23:34.35",
+          "Style": "main",
+          "Name": "15",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "The Partner Killer."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:34.79",
+          "End": "0:23:37.17",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Let me introduce you."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:37.17",
+          "End": "0:23:41.85",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "This is Code number 002, a pistil with the\\Nspecial forces unit APE directly controls."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:42.74",
+          "End": "0:23:45.08",
+          "Style": "main",
+          "Name": "7",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "She's a girl that carries klaxosaur blood."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:46.97",
+          "End": "0:23:50.28",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "But having taken this step \\Nof my own free will,"
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:51.37",
+          "End": "0:23:55.87",
+          "Style": "italics",
+          "Name": "16",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "I felt like I might be able to fly again."
+        }
+      },
+      {
+        "key": "Dialogue",
+        "value": {
+          "Layer": "0",
+          "Start": "0:23:55.87",
+          "End": "0:23:58.76",
+          "Style": "main",
+          "Name": "Z2",
+          "MarginL": "0000",
+          "MarginR": "0000",
+          "MarginV": "0000",
+          "Effect": "",
+          "Text": "Found you, my darling."
+        }
+      }
+    ]
+  }
+]

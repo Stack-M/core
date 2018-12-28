@@ -1,0 +1,33 @@
+{
+  "name": "stack-m",
+  "version": "0.0.1-dev",
+  "description": "A media server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stack-m/stack-m"
+  },
+  "keywords": [
+    "media"
+  ],
+  "author": "Saitama Sama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stack-m/stack-m/issues"
+  },
+  "homepage": "https://github.com/stack-m/stack-m#readme",
+  "dependencies": {
+    "ass-parser": "^0.2.0",
+    "ass-to-vtt": "^1.2.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "hls-server": "^1.5.0",
+    "node-fetch": "^2.2.1",
+    "windows-drive-letters": "^3.1.0"
+  }
+}

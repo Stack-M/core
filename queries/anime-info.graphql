@@ -1,0 +1,71 @@
+query ($page: Int, $perPage: Int, $search: String) {
+    Page (page: $page, perPage: $perPage) {
+        pageInfo {
+            total
+            currentPage
+            lastPage
+            hasNextPage
+            perPage
+        }
+        media (search: $search, format_not_in: [MANGA, NOVEL, ONE_SHOT]) {
+            id
+            title {
+                romaji
+            },
+            trailer {
+                id,
+                site
+            },
+            description (asHtml: true)
+            bannerImage,
+            source,
+            duration,
+            studios {
+                edges {
+                    node {
+                        name,
+                        siteUrl
+                    },
+                    isMain
+                }
+            },
+            characters {
+                edges {
+                    role
+                    node {
+                        name {
+                            first
+                            last
+                            native
+                        }
+                        image {
+                            large
+                            medium
+                        }
+                        description
+                    }
+                }
+            }
+            hashtag,
+            genres,
+            averageScore,
+            meanScore,
+            popularity,
+            tags {
+                name,
+                description
+            },
+            isAdult,
+            stats {
+                scoreDistribution {
+                    score
+                    amount
+                }
+            }
+            coverImage {
+                large,
+                medium
+            }
+        }
+    }
+}
